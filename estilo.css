@@ -1,0 +1,113 @@
+#principal{
+width: 900px;
+    
+}
+#cabeçalho{
+padding:7px;
+    font-weight: 100;
+    font-size: 17px;
+   background-color: white;
+}
+
+#fundo{
+
+   background-image: url(imagens/saude.png);
+   width: 900px;
+   margin-right: 900px;
+   margin-left: 500px;
+
+  
+}
+
+#formularios{
+
+    padding: 18px;
+
+     background: #B0E0E6;
+
+     right: 900px;
+  
+}
+
+
+
+#menu{
+    
+   padding: 18px;
+   background: #00CED1;
+}
+
+
+.centralizar{
+    text-align: center;
+    font-weight: bolder;
+
+    }
+
+
+p {
+    
+    
+    font-weight: bolder;
+
+}
+
+
+a {
+    
+    text-decoration: none;
+    font-weight: bolder;
+  
+}
+
+
+ #formulariosteste {
+
+    min-height: 900px;
+    padding: 18px;
+
+     background: #B0E0E6;
+
+     right: 900px;
+  
+ }
+
+
+#logo{
+
+
+      font-family: 'Brush Script MT', cursive;
+  
+
+      font-size: 20px;
+ }
+
+#especialidades{
+
+    padding:7px;
+    font-weight: 100;
+    font-size: 17px;
+   background-color: white;
+   width: 887px;
+   
+  margin-right: 10px;
+   margin-left: -18px;
+
+}
+
+
+ ul{
+
+     list-style-type: circle;
+        padding:7px;
+ }
+
+ #nomesserviços{
+
+    padding:7px;
+    font-weight: 100;
+    font-size: 17px;
+   background-color: red;
+   width: 900px;
+
+ }
